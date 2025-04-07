@@ -1,0 +1,42 @@
+[
+    {
+        "symbol": "AAPL",
+        "price": 4916.5,
+        "change": -193.75
+    },
+    {
+        "symbol": "TSLA",
+        "price": 4916.0,
+        "change": -194.25
+    },
+    {
+        "symbol": "NVDA",
+        "price": 4916.0,
+        "change": -194.25
+    },
+    {
+        "symbol": "GOOGL",
+        "price": 4916.0,
+        "change": -194.25
+    },
+    {
+        "symbol": "AMZN",
+        "price": 4916.75,
+        "change": -193.5
+    },
+    {
+        "symbol": "MSFT",
+        "price": 4916.75,
+        "change": -193.5
+    },
+    {
+        "symbol": "META",
+        "price": 4917.25,
+        "change": -193.0
+    },
+    {
+        "symbol": "NFLX",
+        "price": 4917.25,
+        "change": -193.0
+    }
+]
